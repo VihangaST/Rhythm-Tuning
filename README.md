@@ -16,4 +16,4 @@ controls
 
 
 Technologies
-Javascript, React, Tailwind CSS, Redux toolkit, Shazam and Geolocation APIs
+Javascript, React, Tailwind CSS, Redux toolkit, Rapid APIs
